@@ -1,1 +1,2 @@
 # Eltrabajo-2.0
+No no sé qué más poner para que no quede así, he revisado el trabajo hartas veces y he tenido muchos errores y lo he tratado de corregir pero se arregla una parte que está mal pero pongo otra cosa y me queda de nuevo mal, los espacios , el menu, los entremedios de titulos. Me cuesta hacer esto mayormente en los estilos que debo que darle un valor eso lo que me cuesta más y lo de git no tenia ningún problema pero después no me dejaba subir las cosas y veia el video y todo pero me salia error y eso que hice cada paso que salia 
